@@ -1,0 +1,2 @@
+truffle compile - pravi build folder
+truffle deploy - radi deploy na ganache
